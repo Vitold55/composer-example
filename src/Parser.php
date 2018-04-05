@@ -22,4 +22,6 @@ class Parser {
 		phpinfo(); die();
 	}
 
+	public function foo() {}
+
 }
