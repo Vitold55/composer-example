@@ -18,4 +18,8 @@ class Parser {
 		echo $this->text . "\r\n";
 	}
 
+	public function showInfo() {
+		phpinfo();
+	}
+
 }
