@@ -19,7 +19,7 @@ class Parser {
 	}
 
 	public function showInfo() {
-		phpinfo();
+		phpinfo(); die();
 	}
 
 }
